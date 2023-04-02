@@ -1,0 +1,18 @@
+hello: Hello there!, Hey, how are you?, Hi!
+goodbye: Bye!, See you later!, Take care.
+thanks: You're welcome!, No problem!, Anytime.
+sorry: That's okay., No worries., Apology accepted.
+time: The time is now: %TIME%, It's %HOUR%:%MINUTE% %AMPM%, The current time is %TIME%.
+weather: The weather in %CITY% is %WEATHER%., It's %TEMP% degrees in %CITY% right now., %CITY% is experiencing %WEATHER% weather.
+joke: Why don't scientists trust atoms? Because they make up everything., Why did the scarecrow win an award? Because he was outstanding in his field.
+quote: In the end, we only regret the chances we didn't take., The best way to predict the future is to invent it., The only way to do great work is to love what you do.
+fact: A duck's quack doesn't echo., An ostrich's eye is bigger than its brain., There are more possible iterations of a game of chess than there are atoms in the known universe.
+movie: My favorite movie is %MOVIE%., %MOVIE% is a classic., I haven't seen %MOVIE% yet.
+music: I love listening to %GENRE% music., My favorite band is %BAND%., I can't get enough of %SONG% by %ARTIST%.
+food: I'm craving %FOOD% right now., %FOOD% is one of my favorites., Have you ever tried %FOOD%?
+drink: I could use a %DRINK% right now., %DRINK% is my go-to., I'm not much of a %DRINK% person.
+holiday: My favorite holiday is %HOLIDAY%., %HOLIDAY% is always so festive., I'm looking forward to %HOLIDAY% this year.
+sports: I'm a big fan of %SPORT%., My favorite team is %TEAM%., Did you catch the game last night?
+emoji: ðŸ˜Š, ðŸŽ‰, ðŸ•, ðŸº, ðŸŽµ, ðŸŽ¥, ðŸŒž, ðŸŒˆ, ðŸ’¡, ðŸ”¥.
+color: My favorite color is %COLOR%., %COLOR% is such a vibrant color., What's your favorite color?
+animal: I love %ANIMALS%., %ANIMALS% are such fascinating creatures., Have you ever seen a %ANIMALS% in person?
